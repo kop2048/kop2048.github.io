@@ -492,3 +492,5 @@ outbrain.com, 009003959a5821f830a09d0bc562b43c62, RESELLER
 pangleglobal.com, 45779, RESELLER
 yandex.com, 63904735, RESELLER
 yieldmo.com, 3036313774475649025, RESELLER
+pangleglobal.com, 5008079, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
